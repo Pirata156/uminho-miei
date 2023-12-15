@@ -2,13 +2,15 @@
 | --- | --- |
 
 
-Code dump for exercises, worksheets, and projects from my time at UMinho's Informatics Engineering studies days! 💻 📚
+Code dump for exercises, worksheets, and projects from my time at UMinho's Informatics Engineering studies days!
 
 ---
 
-# 1st Year
+# 2nd Year
 
 ## [Object-Oriented Programming](object-oriented-programming)
+
+[![Java](https://img.shields.io/static/v1?message=Java&logo=openjdk&labelColor=5c5c5c&color=%23ED8B00&logoColor=white&label=%20&style=plastic)](https://www.java.com/)
 
 * [Worksheet 01](object-oriented-programming/worksheet01) - JAVA Introduction and Fundamentals
 
