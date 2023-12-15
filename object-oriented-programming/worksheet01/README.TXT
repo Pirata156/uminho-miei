@@ -1,4 +1,3 @@
-------------------------------------------------------------------------
 This is the project README file for Worksheet 01 (Ficha Pratica 01).
 Here, you'll find information about the Object-Oriented Programming (OOP) practical exercises.
 
@@ -88,5 +87,3 @@ On the third failed attempt, the user loses. Whether you lose or win, the progra
 If yes, a new number will be generated and the game will resume.
 
 Ex 15: Write a program that reads the year, month and day of a person's birth and calculates their current age, telling the user the date of birth read, today's day and the age that was calculated.
-
-------------------------------------------------------------------------
