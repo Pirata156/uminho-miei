@@ -12,8 +12,9 @@ Code dump for exercises, worksheets, and projects from my time at UMinho's Infor
 
 [![Java](https://img.shields.io/static/v1?message=Java&logo=openjdk&labelColor=5c5c5c&color=%23ED8B00&logoColor=white&label=%20&style=plastic)](https://www.java.com/)
 
-* [Worksheet 01](object-oriented-programming/worksheet01) - JAVA Introduction and Fundamentals
+* [Worksheet 01](object-oriented-programming/worksheet01) - JAVA introduction and fundamentals
 * [Worksheet 02](object-oriented-programming/worksheet02) - Arrays lab
+* [Worksheet 03](object-oriented-programming/worksheet03) - Simple classes and fundamentals
 
 
 ---
