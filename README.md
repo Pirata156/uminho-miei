@@ -16,7 +16,8 @@ Code dump for exercises, worksheets, and projects from my time at UMinho's Infor
 * [Worksheet 02](object-oriented-programming/worksheet02) - Arrays lab
 * [Worksheet 03](object-oriented-programming/worksheet03) - Simple classes and fundamentals
 * [Worksheet 04](object-oriented-programming/worksheet04) - ArrayList<E> and Collections fundamentals
-* [Worksheet 04](object-oriented-programming/worksheet05) - List<E>, Set<E>, Map<E> and Collections
+* [Worksheet 05](object-oriented-programming/worksheet05) - List<E>, Set<E>, Map<E> and Collections
+* [Employees Project](object-oriented-programming/employees) - Covering a wide range of OOP concepts while simulate managing employees in a company setting.
 
 ---
 
