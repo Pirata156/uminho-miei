@@ -18,6 +18,7 @@ Code dump for exercises, worksheets, and projects from my time at UMinho's Infor
 * [Worksheet 04](object-oriented-programming/worksheet04) - ArrayList<E> and Collections fundamentals
 * [Worksheet 05](object-oriented-programming/worksheet05) - List<E>, Set<E>, Map<E> and Collections
 * [Employees Project](object-oriented-programming/employees) - Covering a wide range of OOP concepts while simulate managing employees in a company setting.
+* [Transitarios POO Project](object-oriented-programming/translei) - Final group project for OOP class simulating a managing system for a fictitious transportation company.
 
 ---
 
