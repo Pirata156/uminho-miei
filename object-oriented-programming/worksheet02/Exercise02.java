@@ -1,5 +1,4 @@
 import java.util.Scanner;   //Input class
-import java.util.Arrays;    //Array class
 
 /**
  * Program that reads N integer values into an array and determines the largest value entered and its position in the array.
@@ -35,7 +34,7 @@ public class Exercise02
         }
         keyboard.close();
         //Looking for the largest value entered
-        //Note: Could have been done same time as input the values but OK. Following the script!
+        //AUTHOR NOTE: Could have been done same time as input the values but OK. Following the script!
         indexBig = n - 1;
         for(i = 0; i < n; i++) {
             if(listA[i] >= listA[indexBig]) {

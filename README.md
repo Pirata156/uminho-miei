@@ -6,11 +6,24 @@ Code dump for exercises, worksheets, and projects from my time at UMinho's Infor
 
 ---
 
+# 1st Year
+
+## [Functional Programming](functional-programming)
+
+[![Haskell](https://img.shields.io/static/v1?message=Haskell&logo=haskell&labelColor=5e5086&color=5c5c5c&logoColor=white&label=%20&style=plastic)](https://www.haskell.org/)
+
+
+* [Worksheets](functional-programming/worksheets) - Exercises in Haskell covering various Functional Programming concepts
+* [Assessments](functional-programming/assessments) - Tests and exam exercises in Haskell covering concepts learned in Functional Programming
+* [Sandbox](functional-programming/sandbox) - A collection of experimental implementations and practice code created while learning Functional Programming concepts
+
+
 # 2nd Year
 
 ## [Object-Oriented Programming](object-oriented-programming)
 
-[![Java](https://img.shields.io/static/v1?message=Java&logo=openjdk&labelColor=5c5c5c&color=%23ED8B00&logoColor=white&label=%20&style=plastic)](https://www.java.com/)
+[![Java](https://img.shields.io/static/v1?message=Java&logo=openjdk&labelColor=%23ED8B00&color=5c5c5c&logoColor=white&label=%20&style=plastic)](https://www.java.com/)
+
 
 * [Worksheet 01](object-oriented-programming/worksheet01) - JAVA introduction and fundamentals
 * [Worksheet 02](object-oriented-programming/worksheet02) - Arrays lab

@@ -48,7 +48,7 @@ public class Exercise03
         keyboard.close();
         listA = readIntArray(n);
         //Looking for the largest value entered
-        //Note: Could have been done same time as input the values but OK. Following the script!
+        //AUTHOR NOTE: Could have been done same time as input the values but OK. Following the script!
         indexBig = n - 1;
         for(i = 0; i < n; i++) {
             if(listA[i] >= listA[indexBig]) {
