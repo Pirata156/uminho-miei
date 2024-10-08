@@ -8,7 +8,7 @@ This folder contains a collection of resolved worksheets from practical exercise
 
 ### How to Start This Project
 
-To work with these worksheets, follow these steps:
+To work with these worksheets, follow one of these steps:
 
 1. **Load a Worksheet into GHCi:**
    - Open GHCi (the Glasgow Haskell Compiler interactive environment).
