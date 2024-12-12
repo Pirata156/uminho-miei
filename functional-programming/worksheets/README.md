@@ -28,6 +28,37 @@ To work with these worksheets, follow the steps in one of these options:
 ---
 ---
 
+## Worksheets - 2008/2009
+
+
+#### [Worksheet 7: Binary Number Representation](fp0809_class07.hs)
+
+This worksheet focuses on implementing alternative representations of positive integers using lists of boolean values (bits).
+It covers fundamental binary number operations and their implementations using functional programming techniques.
+Key topics include converting between integers and bit lists, implementing binary addition with carry operations, and developing multiplication algorithms for binary numbers.
+
+#### [Worksheet 8: Polynomial Operations](fp0809_class08.hs)
+
+This worksheet explores polynomial operations and their implementations in Haskell.
+It introduces two different representations for polynomials: one using lists of monomials (coefficient-exponent pairs) and another using coefficient sequences.
+The exercises cover implementing basic polynomial operations such as addition and multiplication, as well as polynomial normalization in different bases.
+
+#### [Worksheet 11: Finite Functions and Type Classes](fp0809_class11.hs)
+
+This worksheet delves into finite partial functions and their implementation using different data structures.
+It introduces a type class `FF` for finite functions and implements it using two different approaches: ordered lists of pairs and binary search trees.
+The exercises focus on implementing core operations like domain calculation, searching, adding, and removing elements.
+It also covers Show class instantiation for custom data types and demonstrates how to optimize implementations without using higher-order functions.
+
+#### [Worksheet 13: Expression Trees and Postfix Notation](fp0809_class13.hs)
+
+This worksheet focuses on working with expression trees and postfix notation in Haskell.
+It implements functionality to convert postfix notation strings into expression trees (`ExpInt`) and evaluate them.
+The exercises include parsing and evaluating basic postfix expressions, and extend to handling a more complex system with variable memorization using the `@` operator.
+The worksheet emphasizes tree manipulation, expression evaluation, and maintaining state through recursive processing.
+
+---
+
 ## Worksheets - 2010/2011
 
 
