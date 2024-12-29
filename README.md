@@ -15,6 +15,7 @@ Code dump for exercises, worksheets, and projects from my time at UMinho's Infor
 
 * [Worksheets](functional-programming/worksheets) - Exercises in Haskell covering various Functional Programming concepts
 * [Assessments](functional-programming/assessments) - Tests and exam exercises in Haskell covering concepts learned in Functional Programming
+* [Sandbox](functional-programming/sandbox) - A collection of experimental implementations and practice code created while learning Functional Programming concepts
 
 
 # 2nd Year

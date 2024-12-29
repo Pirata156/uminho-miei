@@ -32,4 +32,5 @@ Functional programming is often preferred for building systems that require para
 ## Exercises
 
 * [**Worksheets**](worksheets) - Practical exercises in Haskell covering various Functional Programming concepts completed throughout the course.
-* [**Assessments**](assessments) - Assessment materials including tests, exams and sample preparation exercises for functional programming tests or exams.
+* [**Assessments**](assessments) - Assessment materials including tests, exams and sample preparation exercises for Functional Programming tests or exams.
+* [**Sandbox**](sandbox) - A collection of experimental implementations and practice code created while learning Functional Programming concepts.
