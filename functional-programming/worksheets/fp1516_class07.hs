@@ -159,8 +159,8 @@ balance :: Extract -> Float
 balance (Ext init trans) = let (a, b) = creDeb (Ext init trans) in init + a - b
 
 -- (f) Redefine the function 'balance' using a 'foldr'.
-saldoF :: Extract -> Float
-saldoF (Ext init trans) = foldr fAux init trans
+balanceF :: Extract -> Float
+balanceF (Ext init trans) = foldr fAux init trans
   where
     fAux (_, _, Credit x) rest = x + rest
     fAux (_, _, Debit y) rest = rest - y
